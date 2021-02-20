@@ -1,0 +1,6 @@
+$dokka.format:gfm
+$dokka.linkExtension:md
+
+com.karim.vatask
+com.karim.vatask.Adpter
+com.karim.vatask.Operation
